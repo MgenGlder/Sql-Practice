@@ -1,0 +1,6 @@
+- A view is a *virtual* table
+- The definition is stored in the catalog
+- Column names are inherited from the base tables
+- Columns may be explicitly named in the definition
+- Columns must be explicitly named if ambiguous
+- Computed columns must be explicitly named
